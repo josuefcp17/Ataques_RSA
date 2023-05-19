@@ -2,9 +2,8 @@
 Integrantes: 
 
 
-		JOAQUIN MUÑOZ
-		JOSUE CARPIO
-		MARCIA MONTENEGRO
+		JOSUE FRANCISCO CARPIO PEÑA 
+		
     
     
    Para el ejercicio 1 usamos def FERMAT(a, x, n): para poder encontrar el valor de m
